@@ -1,0 +1,26 @@
+{
+  "name": "steinbach-tads25",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./backend/server.js",
+    "frontend": "python3 -m http.server 8000 --directory frontend"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.2",
+    "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSiqueiraJackowski/atividadeweb3danielsiqueira.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanielSiqueiraJackowski/atividadeweb3danielsiqueira/issues"
+  },
+  "homepage": "https://github.com/DanielSiqueiraJackowski/atividadeweb3danielsiqueira#readme",
+  "description": ""
+}

@@ -1,0 +1,13 @@
+.claude
+.vscode
+.idea
+.profile
+.zprofile
+.zshrc
+.ripgreprc
+.bashrc
+.bashrc_profile
+node_modules
+.mcp.json
+package-lock.json
+.bash_profile
